@@ -4,4 +4,4 @@ On this page you will found code and concept for practical learning  of ML/AI, w
 
 ### Auto Insurance Premium.
 -Base Model creation using Linear Rigression Algorithm.
-  1-Feature slection, scaling and encoding.
+ -1-Feature slection, scaling and encoding.
